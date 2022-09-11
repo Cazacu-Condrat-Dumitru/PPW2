@@ -9,7 +9,7 @@ backend
 ### Car Type:
     {
       id: number,
-      type: string,
+      type_name: string,
     }
 
 ### Car:
